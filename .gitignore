@@ -1,0 +1,13 @@
+# Binaries and build artifacts
+*.exe
+*.pdb
+*.o
+*.obj
+*-linux*
+nimcache/
+.nimcache/
+*.exe.manifest
+
+# Sensitive config
+accounts.json
+!accounts.example.json

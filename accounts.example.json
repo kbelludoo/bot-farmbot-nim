@@ -1,0 +1,28 @@
+[
+  {
+    "id": "farm-1",
+    "name": "Personagem Exemplo",
+    "enabled": true,
+    "credentials": {
+      "cookie": "farm_ricochet_browser=seu_cookie_aqui; farm_ricochet_session=sua_sessao_aqui",
+      "email": "user@example.com"
+    },
+    "settings": {
+      "autoHunt": true,
+      "autoAdvancePhase": true,
+      "autoChests": true,
+      "autoMissions": true,
+      "autoBattlePass": true,
+      "autoTalents": true,
+      "autoAscension": true,
+      "autoTransmute": false,
+      "autoDismantle": true,
+      "autoFuseCrystals": true,
+      "autoLootGoblin": true,
+      "autoTuneSpeed": true,
+      "speedMultiplier": 6.5,
+      "maxCampaignLevel": 514,
+      "safetyMarginPhases": 6
+    }
+  }
+]
